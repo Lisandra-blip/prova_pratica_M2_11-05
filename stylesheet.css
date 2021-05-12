@@ -1,0 +1,150 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+}
+h4{
+    margin-bottom: 5px;
+    font-weight: bolder;
+    font-size: 17;
+}
+span{
+    color: blueviolet;
+}
+b{
+    color: rgb(107, 106, 106);
+    background-color: lightgray;
+    border: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+input{
+    background-color: rgb(233, 232, 232);
+    color: rgb(104, 104, 104);
+    border: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    width: 300px;
+    height: 20px;
+    padding: 5px;
+    font-weight: bolder;
+    
+}
+::placeholder{
+    color: rgb(209, 207, 207);
+}
+
+/**/
+#left{
+    float: left;
+    width: 16%;
+    height: auto;
+    margin-right: 150px;
+}
+
+/**/
+#content-1{
+   width: auto;
+
+}
+#content-1 p{
+    font-weight: 600;
+    font-size: 13px;
+    color: rgb(34, 34, 34);
+
+}
+.canal{
+    display: inline-block;
+    padding: 5px;
+    width: 290px;
+    height: 250pxpx;
+}
+.canal img{
+    width: 295px;
+    height: 170px;
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+h5{
+    color: darkgray;
+    font-size: 12px;
+    margin: none;
+    padding: 2px;
+    
+}
+.inf{
+    float: right;
+    padding: auto;
+    margin: auto;
+    display: inline-block;
+}
+
+/**/
+
+#content-2{
+
+}
+#content-2 p{
+    font-weight: bolder;
+    font-size: 14px;
+    color: rgb(34, 34, 34);
+    
+}
+.pagina{
+    display: inline-block;
+}
+
+#footer{
+    background-color: blueviolet;
+    height: 20px;
+    width: 100%;
+    clear: both;
+    margin-top: 30px;
+}
+
+.menu{
+    float: right;
+}
+.pagina img{
+    padding: 4px;
+}
+
+button{
+    background-color: blueviolet;
+    color: white;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    font-size: 17px;
+}
+.botao {
+    padding: 10px;
+    border: none; 
+    background-color: rgb(233, 233, 233);
+    font-size: 14px;
+    font-weight: bolder;
+
+}
